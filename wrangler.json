@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "orange-cake-4021",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e14d152f-94c7-4977-a114-01c076b92bf4",
+      "database_name": "bitter-dawn-0e86-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
